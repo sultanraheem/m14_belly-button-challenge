@@ -1,4 +1,4 @@
-# Belly Button Challenge
+# biodiversity-dashboard or belly-button-challenge
 
 ## Instructions
 
